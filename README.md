@@ -37,10 +37,9 @@ git clone https://github.com/SaisreeThulluru/Environmental-Monitoring-Week1
 cd Environmental-Monitoring-Week1
 
 
-## Install dependencies (if required):
-
+## Install dependencies (if required)
+```bash
 pip install pandas matplotlib
-
 
 ## Run the notebook locally:
 
