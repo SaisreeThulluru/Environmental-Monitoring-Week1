@@ -1,3 +1,4 @@
+
 # 🌍 Environmental Monitoring and Pollution Control - Week 1  
 
 Week 1 milestone project for **AICTE Edunet Internship – Environmental Monitoring and Pollution Control** using sample air quality data.  
@@ -35,29 +36,54 @@ Clone the repository:
 ```bash
 git clone https://github.com/SaisreeThulluru/Environmental-Monitoring-Week1
 cd Environmental-Monitoring-Week1
+````
 
+### Install dependencies (if required)
 
-## Install dependencies (if required)
 ```bash
 pip install pandas matplotlib
+```
 
-## Run the notebook locally:
+### Run the notebook locally
 
+```bash
 jupyter notebook Week1.ipynb
+```
 
-Or upload Week1.ipynb to Google Colab
- and run it there.
+Or upload `Week1.ipynb` to [Google Colab](https://colab.research.google.com/) and run it there.
 
+---
 
 ## 📈 Sample Output
 
 Below are example visualizations generated from the dataset:
 
-### PM2.5 Levels  
-![PM2.5 Trend](images/pm25_trend.png)  
+### PM2.5 Levels
 
-### NO₂ Levels  
-![NO₂ Trend](images/no2_trend.png)  
+![PM2.5 Trend](image/pm25_trend.png)
 
-### CO Levels  
-![CO Trend](images/co_trend.png)  
+### NO₂ Levels
+
+![NO₂ Trend](image/no2_trend.png)
+
+### CO Levels
+
+![CO Trend](image/co_trend.png)
+
+---
+
+## 👩‍💻 Author
+
+**Saisree Thulluru**
+Vasireddy Venkatadri Institute of Technology
+Under the guidance of *Mr. Ramesh Kumar*
+
+```
+
+---
+
+✅ This is the **final polished README.md** you can copy-paste.  
+✅ Once your 3 images are inside the `images` folder, they’ll show up directly in the README.  
+
+Do you also want me to give you a **short “Improvisations Done” paragraph** to paste into the LMS submission for Week 1?
+```
