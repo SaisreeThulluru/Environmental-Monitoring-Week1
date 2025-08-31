@@ -76,14 +76,3 @@ Below are example visualizations generated from the dataset:
 
 **Saisree Thulluru**
 Vasireddy Venkatadri Institute of Technology
-Under the guidance of *Mr. Ramesh Kumar*
-
-```
-
----
-
-✅ This is the **final polished README.md** you can copy-paste.  
-✅ Once your 3 images are inside the `images` folder, they’ll show up directly in the README.  
-
-Do you also want me to give you a **short “Improvisations Done” paragraph** to paste into the LMS submission for Week 1?
-```
