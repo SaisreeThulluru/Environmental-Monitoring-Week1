@@ -37,20 +37,20 @@ git clone https://github.com/SaisreeThulluru/Environmental-Monitoring-Week1
 cd Environmental-Monitoring-Week1
 
 
-Install dependencies (if required):
+## Install dependencies (if required):
 
 pip install pandas matplotlib
 
 
-Run the notebook locally:
+## Run the notebook locally:
 
 jupyter notebook Week1.ipynb
-
 
 Or upload Week1.ipynb to Google Colab
  and run it there.
 
-📈 Sample Output
+
+## 📈 Sample Output
 
 Below are example visualizations generated from the dataset:
 
