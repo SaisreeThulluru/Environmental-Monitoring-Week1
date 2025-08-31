@@ -26,3 +26,17 @@ Prepared as part of the **AICTE Edunet Internship (Green Skills - AI)**, Week 1 
 1. Clone the repository:  
    ```bash
    git clone <your-repo-link>
+
+   
+## 📈 Sample Output
+
+Below are example visualizations generated from the dataset:
+
+### PM2.5 Levels
+![PM2.5 Trend](images/pm25_trend.png)
+
+### NO₂ Levels
+![NO₂ Trend](images/no2_trend.png)
+
+### CO Levels
+![CO Trend](images/co_trend.png)
